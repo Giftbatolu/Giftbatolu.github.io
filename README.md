@@ -16,7 +16,7 @@
 
 I’m a passionate and driven learner currently exploring the world of **backend development**, **data science**, and **content creation** through **ALX programs**.
 
-With a strong foundation in **medical science**, I am committed to leveraging technology to:
+With my **medical science** background, I am committed to leveraging technology to:
 - Create **affordable healthcare solutions**
 - Build tools that **bridge the gap between theory and practice** in medical laboratory science
 - Develop educational content that **inspires, educates, and makes meaningful impact**
@@ -92,10 +92,10 @@ This is a mindset I live by as I challenge myself every day in this tech journey
 
 I'm open to collaboration, mentorship, internships, and new opportunities. Feel free to reach out!
 
-| 📫 Email     | (Insert your email here) |
+| 📫 Email     | (sekinatoyelami@gmail.com) |
 |-------------|---------------------------|
-| 🔗 LinkedIn | (Insert your LinkedIn)    |
-| 🐦 Twitter  | (Insert your Twitter)     |
+| 🔗 LinkedIn | (www.linkedin.com/in/sekinatoyelami)    |
+| 🐦 Twitter  | (https://x.com/gifty_media)     |
 
 ---
 
