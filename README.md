@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-I’m a passionate and driven learner currently exploring the world of **backend development**, **data science**, and **content creation** through programs like **ALX Backend Pro Dev**.
+I’m a passionate and driven learner currently exploring the world of **backend development**, **data science**, and **content creation** through **ALX programs**.
 
 With a strong foundation in **medical science**, I am committed to leveraging technology to:
 - Create **affordable healthcare solutions**
