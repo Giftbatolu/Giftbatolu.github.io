@@ -6,11 +6,11 @@
 <h1 align="center">👋 Hello there, I'm Oyelami Sekinat</h1>
 
 <p align="center">
-  <em>Backend Developer | Aspiring Data Scientist | Content Creator</em><br/>
-  <strong>Using my background in Medical Science to build affordable digital health & education solutions</strong>
+  <em> Final year Medical Laboratory Science Student | Aspiring Backend Developer | Data Scientist | Content Creator</em><br/>
+  <strong>I bridge the gap between medical science and technology. With a background in Medical Laboratory Science and a passion for building digital tools, I create content and software that inform, educate, and inspire.
+</strong>
 </p>
 
----
 
 ## 🌟 About Me
 
